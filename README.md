@@ -7,7 +7,7 @@ This is my first repository and contains the introduction and contents of other 
 <br>
 Repos included:
 <br>
--  ## MS INFS PROJECTS.
+-  ## MS INFS.
 -  ## EXCEL REPO.
 -  ## POWERBI REPO.
 -  ## SQL REPO.
