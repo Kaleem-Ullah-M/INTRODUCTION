@@ -7,8 +7,8 @@ This is my first repository and contains the introduction and contents of other 
 <br>
 Repos included:
 <br>
-- MS INFS PROJECTS.
-- EXCEL REPO.
-- POWERBI REPO.
-- SQL REPO.
-- DATA ANALYSIS PROJECTS.
+-  ## MS INFS PROJECTS.
+-  ## EXCEL REPO.
+-  ## POWERBI REPO.
+-  ## SQL REPO.
+-  ## DATA ANALYSIS PROJECTS.
